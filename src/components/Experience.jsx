@@ -50,7 +50,7 @@ export const Experience = () => {
           curvePoints[1].y,
           curvePoints[1].z
         ),
-        subtitle: `Welcome to AmsR Group,
+        subtitle: `Welcome to AmsR HuB,
 Have a seat and enjoy the ride!`,
       },
       {
@@ -60,9 +60,8 @@ Have a seat and enjoy the ride!`,
           curvePoints[2].y,
           curvePoints[2].z
         ),
-        title: "Members",
-        subtitle: `Vishnu Kashyap , Shiva Giri , 
-        Saurabh Gupta , Nitesh Mishra & Aryan Maurya`,
+        title: "What is AmsR ?(Aryan Maurya)",
+        subtitle: `AmsR is stage name of Aryan maurya who is singer,rapper,developer,educator,artist,chemist & more`,
       },
       {
         cameraRailDist: -1,
@@ -71,9 +70,8 @@ Have a seat and enjoy the ride!`,
           curvePoints[3].y,
           curvePoints[3].z
         ),
-        title: "Stacks / Tech...",
-        subtitle: `I'am use Top best stacks like Bun , Vite , Reactjs , Firebase , Javascript , 
-        TailwindCSS & some other ...`,
+        title: "About Tech",
+        subtitle: `AMSr Hub is your go-to source for mastering programming languages like C, C++, C#, Obj-C, R, Go, Java, Lua, Python, Ruby, Kotlin, Scala, Ardunio, HTML, XML, CSS, JavaScript, TypeScript, VBScript, PHP, Solidity, MATLAB, Haskell, Shell Script, SQL, NoSQL, CQL, GraphQL, PL/SQL, React Native, Node.js, Next.js, Express.js, Angular, React, Laravel, Flutter, Vue, Babel, Express, MySQL, PostgreSQL, MongoDB, Cassandra, Neo4j, Oracle, and more.`,
       },
       {
         cameraRailDist: 1.5,
@@ -82,8 +80,8 @@ Have a seat and enjoy the ride!`,
           curvePoints[4].y,
           curvePoints[4].z - 12
         ),
-        title: ": Works : ",
-        subtitle: `Documentation/Synopsys pptx chart by Vishnu+Shiva+Saurabh+Nitesh &&& Build+Deploy+maintenance+test+SEO+UI/UX by Aryan`,
+        title: "Others",
+        subtitle: `Mr perfect is located in Gorakhpur and he well men with hungry mind AIM HIGH AND FLY HIGH NO EXCUSE ~aMSr`,
       },
     ];
   }, []);
